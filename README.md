@@ -1,1 +1,1 @@
-# gotetora
+# go-tetora
